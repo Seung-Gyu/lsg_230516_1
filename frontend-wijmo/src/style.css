@@ -1,0 +1,26 @@
+.gs-bundle-of-buttons {
+    position: absolute;
+    top:10px;
+    right:15px;
+}
+
+.gs-bundle-of-buttons .v-btn {
+    margin-right:10px;
+}
+
+.gs-query-search-btn {
+    color:white;
+    background-color:#9A7BCF;
+    border-radius:0;
+    max-width:100px;
+    position: absolute;
+    right: 10px;
+    bottom: 10px;
+}
+
+
+.v-text-field--outlined .v-label {
+    top: 5px !important;
+}
+
+
